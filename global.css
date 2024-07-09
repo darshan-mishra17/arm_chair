@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-imperial-script: "Imperial Script";
+  --font-hermeneus-one: "Hermeneus One";
+
+  /* font sizes */
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --color-cornflowerblue: #b4abff;
+  --color-blueviolet: #6c47ff;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-11xs: 2px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+}
